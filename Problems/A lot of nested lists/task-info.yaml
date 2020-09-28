@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    n = int(input())
+
+    my_list =  # your code here
+    print(my_list)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6942
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6942">JetBrains
+    Academy</a></html>
+  time: Mon, 28 Sep 2020 07:55:03 UTC
+record: -1

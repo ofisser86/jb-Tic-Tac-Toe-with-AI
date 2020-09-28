@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# the variable M is already defined'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6943
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6943">JetBrains
+    Academy</a></html>
+  time: Mon, 28 Sep 2020 09:21:20 UTC
+record: -1
