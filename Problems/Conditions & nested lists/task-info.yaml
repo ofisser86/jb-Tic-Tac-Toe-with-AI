@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# the list "students" is already defined'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6944
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6944">JetBrains
+    Academy</a></html>
+  time: Mon, 28 Sep 2020 09:28:48 UTC
+record: -1

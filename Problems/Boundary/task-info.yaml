@@ -15,5 +15,9 @@ files:
     print(greater_than_5)
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9505
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9505">JetBrains
+    Academy</a></html>
+  time: Mon, 28 Sep 2020 06:34:09 UTC
 record: -1
