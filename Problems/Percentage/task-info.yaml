@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def get_percentage():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9516
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9516">JetBrains
+    Academy</a></html>
+  time: Wed, 30 Sep 2020 14:35:14 UTC
+record: -1

@@ -1,0 +1,19 @@
+<h2>Percentage</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Write a function <code class="language-python">get_percentage</code> that takes a real number and represents it as a percentage. So, for example, <code class="language-python">0.1</code> will be equal to <code class="language-python">10%</code>, while <code class="language-python">1.052</code> will be <code class="language-python">105.2%</code>. Also, add an optional parameter <code class="language-python">round_digits</code>, which indicates a precision (the number of digits after the point). If it is not specified, round the result to the nearest integer. Here are some examples:</p> 
+  <pre><code class="language-python">print(get_percentage(0.0123))      # The output is "1%"
+print(get_percentage(0.0123, 0))   # The output is "1.0%"
+print(get_percentage(0.0123, 1))   # The output is "1.2%"
+print(get_percentage(0.0123, 10))  # The output is "1.23%"
+print(get_percentage(0.0296, 1))   # The output is "3.0%"</code></pre> 
+  <p>Don't forget to add the percent sign <code class="language-python">%</code> after the number. Your function should <strong>return </strong>the result, not print it. The returned percentage should be a string.</p> 
+  <p>Pay attention to the last example: as you can see, a <code class="language-python">float</code> number there isn't simply truncated to one digit after the point: it is rounded. Use a built-in function <code class="language-python">round()</code> to do that. It takes up to two arguments, <code class="language-python">number</code> and <code class="language-python">ndigits</code>.</p> 
+  <p>Just implement your function, you don't have to handle input or call it in your code.</p>
+ </body>
+</html><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 15 seconds</font><br><br>
+<b>Caution</b><br><br>
+You may see errors in your code or execution results due to missing context. Don’t worry about it, just write the solution and press Check.
+<br><br>
+<a href="https://hyperskill.org/learn/step/10295">Show topic summary</a>
