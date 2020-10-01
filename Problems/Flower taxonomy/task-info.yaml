@@ -1,0 +1,18 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    iris = {}
+
+
+    def add_iris():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8563
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8563">JetBrains
+    Academy</a></html>
+  time: Thu, 01 Oct 2020 08:09:07 UTC
+record: -1
