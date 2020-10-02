@@ -152,6 +152,9 @@ class TicTacToe:
             self.board = self.create_board()
             self.menu()
 
+    def user_medium(self):
+        ...
+
     def menu(self):
         while True:
             command = input("Input command:").split()
@@ -177,6 +180,28 @@ class TicTacToe:
                 self.current_move = 'X'
                 self.draw_board()
                 self.user_user()
+            elif command == ['start', 'user', 'medium']:
+                self.player1, self.player2 = command[1], command[2]
+                self.draw_board()
+                self.current_move = 'X'
+                self.play_with_easy_pc()
+            elif command == ['start', 'medium', 'user']:
+                self.draw_board()
+                self.player1, self.player2 = command[1], command[2]
+                self.current_move = 'X'
+                self.easy_level()
+            elif command == ['start', 'medium', 'medium']:
+                self.player1, self.player2 = command[1], command[2]
+                self.current_move = 'X'
+                self.easy_easy()
+            elif command == ['start', 'medium', 'easy']:
+                self.player1, self.player2 = command[1], command[2]
+                self.current_move = 'X'
+                self.easy_easy()
+            elif command == ['start', 'easy', 'medium']:
+                self.player1, self.player2 = command[1], command[2]
+                self.current_move = 'X'
+                self.easy_easy()
             else:
                 print("Else statement fom menu works")
 
