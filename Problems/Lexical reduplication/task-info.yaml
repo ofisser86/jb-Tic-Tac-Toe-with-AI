@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    word = input()
+
+    # Change the next line
+    print(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8213
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8213">JetBrains
+    Academy</a></html>
+  time: Fri, 02 Oct 2020 06:38:14 UTC
+record: -1
