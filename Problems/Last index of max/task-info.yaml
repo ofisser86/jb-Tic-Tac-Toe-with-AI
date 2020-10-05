@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def last_indexof_max(numbers):
+        # write the modified algorithm here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7321
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7321">JetBrains
+    Academy</a></html>
+  time: Mon, 05 Oct 2020 12:52:49 UTC
+record: -1
