@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def number_of_frogs(year):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9517
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9517">JetBrains
+    Academy</a></html>
+  time: Tue, 06 Oct 2020 09:23:03 UTC
+record: -1
