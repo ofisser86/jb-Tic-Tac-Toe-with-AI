@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # work with these variables
+    rivers = set(input().split())
+    states = set(input().split())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9156
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9156">JetBrains
+    Academy</a></html>
+  time: Thu, 08 Oct 2020 12:38:53 UTC
+record: -1
