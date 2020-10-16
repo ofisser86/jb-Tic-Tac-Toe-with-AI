@@ -119,8 +119,10 @@ topics:
     theory_id: 6031
   - title: Functional decomposition
     theory_id: 9571
-  - title: Operations with dictionary
+  - title: Dictionary methods
     theory_id: 9008
+  - title: Operations with dictionary
+    theory_id: 11096
   - title: Default arguments
     theory_id: 10295
   - title: Args
